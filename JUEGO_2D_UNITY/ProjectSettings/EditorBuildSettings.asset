@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu Principal.unity
     guid: ab94082f870a249409cc966cb07de1e3
   - enabled: 1
+    path: Assets/Scenes/Durkheim.unity
+    guid: c7ca27fbb7fbff448984e9f20c18994e
+  - enabled: 1
+    path: Assets/Scenes/SantiMarti.unity
+    guid: 77084390c0f632444aef20c31a6683e3
+  - enabled: 1
     path: Assets/Scenes/Nivel_1.unity
     guid: 29d8015dcb9749c4190aa09ece66160b
   - enabled: 1
